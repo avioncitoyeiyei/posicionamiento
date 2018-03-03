@@ -1,0 +1,173 @@
+.recuadro1{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	position: absolute;
+	top: 0;
+	left: 0;
+
+}
+.pequeño1{
+	width: 30px;
+	height: 30px;
+	background-color: green;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.pequeño2{
+	width: 30px;
+	height: 30px;
+	background-color: green;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	margin: auto;
+}
+.pequeño3{
+	width: 30px;
+	height: 30px;
+	background-color: green;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	margin: auto;
+}
+.pequeño4{
+	width: 30px;
+	height: 30px;
+	background-color: green;
+	position: absolute;
+	right: 0;
+	margin: auto;
+	top: 0;
+	left: 0;
+}
+.pequeño5{
+	width: 30px;
+	height: 30px;
+	background-color: green;
+	position: absolute;
+	bottom: 0;
+	margin: auto;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+.pequeño6{
+	width: 30px;
+	height: 30px;
+	background-color: green;
+	position: absolute;
+	bottom: 0;
+	margin: auto;
+	left: 0;
+	right: 0;
+}
+.pequeño7{
+	width: 30px;
+	height: 30px;
+	background-color: green;
+	position: absolute;
+	margin: auto;
+	right: 0;
+	top: 0;
+}
+.pequeño8{
+	width: 30px;
+	height: 30px;
+	background-color: green;
+	position: absolute;
+	margin: auto;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+.pequeño9{
+	width: 30px;
+	height: 30px;
+	background-color: green;
+	position: absolute;
+	bottom: 0;
+	margin: auto;
+	right: 0;
+}
+.recuadro2{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.recuadro3{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	margin: auto;
+}
+.recuadro4{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: auto;
+}
+.recuadro5{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	bottom: 0;
+}
+.recuadro6{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+}
+.recuadro7{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
+.recuadro8{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.recuadro9{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+}
